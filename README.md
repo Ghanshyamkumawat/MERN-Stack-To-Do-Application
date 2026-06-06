@@ -62,7 +62,7 @@ This application allows users to register, log in, manage tasks, and securely st
 
 ---
 
-# Project Structure
+# Project Structure 
 
 ```bash
 mern-todo-app-master/
